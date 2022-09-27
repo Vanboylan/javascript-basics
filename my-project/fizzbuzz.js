@@ -14,4 +14,5 @@ const fizzBuzzUntil = (num) => {
         }
 }
 
-module.exports = fizzBuzzUntil;
+//module.exports = fizzBuzzUntil;
+module.exports = fizzBuzz;
